@@ -8,11 +8,16 @@
 }
 .login-popup-container{
     place-self: center;
+<<<<<<< HEAD
     width: max(23vw, 330px);
+=======
+    width: max(23vw, 330vw);
+>>>>>>> 42dd908bf558b79372f438b4b66dc4a4769d576d
     color: #808080;
     background-color: white;
     display: flex;
     flex-direction: column;
+<<<<<<< HEAD
     gap: 25px;
     padding: 25px 30px;
     border-radius: 8px;
@@ -65,4 +70,6 @@
     color: tomato;
     font-weight: 500;
     cursor: pointer;
+=======
+>>>>>>> 42dd908bf558b79372f438b4b66dc4a4769d576d
 }
