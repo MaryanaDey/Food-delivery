@@ -12,3 +12,10 @@ Done. Now run:
 cd frontend
 npm install
 npm run dev
+
+for admin - перейти на admin и открыть терминал
+npm install
+npm run dev
+
+npm run dev
+npm run server
