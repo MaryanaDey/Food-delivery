@@ -18,4 +18,4 @@ npm install
 npm run dev
 
 npm run dev
-npm run server
+npm run server - перейти на backend и запустить сервер
